@@ -10,12 +10,12 @@
     A new feature is players get bonds, which is kind of the currency of the game. You gain bonds from discovering pairs
 
 ->Second Phase: Once all the inital pairs are placed, Dealer will start the CHECKING PHASE, they can either:
->    - *type "grab" to grab a card from the adjacent player
->    - *type "buy" to buy a card from the adjacent player with a bond. <br>NOTE: buying the special King is worth higher (Costing 7 Bonds)
->    - type "view deck" to view their own deck
->    - type "view placed deck" to view the cards that have been place
->    - type "eligible" If you are eligible to get a completely free win.(Noted further down)
->    - type "procede" to check for a pair and exit off the CHECKING PHASE
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- *type "grab" to grab a card from the adjacent player
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- *type "buy" to buy a card from the adjacent player with a bond. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NOTE: buying the special King is worth higher (Costing 7 Bonds)
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- type "view deck" to view their own deck
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- type "view placed deck" to view the cards that have been place
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- type "eligible" If you are eligible to get a completely free win.(Noted further down)
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;- type "procede" to check for a pair and exit off the CHECKING PHASE
 
     (*can only be done once)
 
